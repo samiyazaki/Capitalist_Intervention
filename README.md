@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiyazaki" alt="samiyazaki" /></a> </p>
 
-- 🔭 I'm currently working on [Capitalist_Intervention]![A link to the awesome project](./assets/Screenshot_20230223_052337.png)  (https://github.com/samiyazaki/Capitalist_Intervention)(https://youtu.be/e3NzrejjC1o "Capitalist Intervention")
+- 🔭 I'm currently working on [Capitalist_Intervention]![A link to the awesome project](./assets/Screenshot_20230223_052337.png)  (https://github.com/samiyazaki/Capitalist_Intervention)[Capitalist Intervention](https://youtu.be/e3NzrejjC1o)
 
 ## This is a Node.js application that uses Express.js and Sequelize to create an API for an e-commerce site. The API interacts with a MySQL database to manage products, orders, and users. The application uses dotenv to store sensitive data, and bcrypt to hash passwords. The application is deployed to Heroku.
 
